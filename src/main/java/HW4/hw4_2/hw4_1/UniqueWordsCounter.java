@@ -1,4 +1,4 @@
-package org.example.hw4_1;
+package HW4.hw4_2.hw4_1;
 
 import java.util.Arrays;
 import java.util.HashMap;
