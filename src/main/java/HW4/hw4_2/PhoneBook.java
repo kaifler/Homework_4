@@ -1,4 +1,4 @@
-package hw4_2;
+package HW4.hw4_2;
 
 import java.util.ArrayList;
 import java.util.HashMap;
